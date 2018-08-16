@@ -57,9 +57,6 @@ The main API used in this application is the Firebase API. This is because it ca
 ### Test Scripts
 Due to a many-to-many database problem and time constraints, we decided against automated testing. Instead, we performed manual unit, component, and system testing.
 
-### Additional Files
-Our documentation file, *FinalDocumentation.pdf*, can be found in the root directory.
-
 ### Sources
 We modified code from tutorials to complete our [posts](https://github.com/firebase/quickstart-android/tree/master/database) and [authentication](http://www.androidhive.info/2016/06/android-getting-started-firebase-simple-login-registration-auth/) sections. Originally, our posts section did not utilize this codebase, but we were not satisfied with the functionality and design of our implementation so we adapted a tutorial to fit our needs.
 
